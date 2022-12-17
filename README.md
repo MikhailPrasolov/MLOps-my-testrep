@@ -1,4 +1,2 @@
 # MLOps-my-testrep
-My first repository
-123
-fdvnwecjkdlscdlsknkl dsal;
+My first repository chosen
