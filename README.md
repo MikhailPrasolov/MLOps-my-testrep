@@ -1,2 +1,2 @@
 # MLOps-my-testrep
-My first repository chosen
+Моя домашка по Шмаклину
